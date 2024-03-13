@@ -1,11 +1,6 @@
-//
-//  main.swift
-//  BaseballGame
-//
-//  Created by 그로밋 on 3/13/24.
-//
+let game = BaseballGame()
+game.start()
 
-import Foundation
-
-print("Hello, World!")
+let input = readLine()
+print(input)
 
